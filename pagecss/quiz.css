@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(199, 199, 199);
+}
+
+input{
+
+    display: flex;
+    justify-content: center;
+
+}

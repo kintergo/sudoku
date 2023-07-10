@@ -1,0 +1,38 @@
+.page{
+
+    background-color: rgb(83, 81, 81);
+    padding: 10px;
+    
+}
+
+ul{
+    display: flex;
+    
+}
+
+.li1{
+   
+    
+    margin:  1%;
+    
+
+}
+
+.li2{
+   
+   
+    margin:  1%;
+}
+
+.li3{
+ 
+    margin:  1%;
+}
+
+a{
+    color: aliceblue;
+    font-size: 20px;
+    font-family: cursive;
+    text-decoration: none;
+}
+

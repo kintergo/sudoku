@@ -1,0 +1,199 @@
+
+body{
+    background-image: url(../image/image1.jpg);
+    background-size: 100%;
+}
+
+input{
+    width: 30px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    
+}
+
+/* enorme div */
+
+
+.ggdiv{
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+/* grande div */
+.gdiv1{
+    position: relative;
+    float: right;
+}
+
+.gdiv2{
+    position: relative;
+    float: right;
+}
+
+.gdiv3{
+    position: relative;
+    float: right;
+}
+
+
+
+/* petite div 1 */
+
+.div1{
+
+    width: 122px;
+    border-bottom: 2px solid rgb(255, 255, 255);
+    border-top: 4px solid rgb(255, 255, 255);
+    border-right: 4px solid rgb(255, 255, 255);
+    border-left: 2px solid rgb(255, 255, 255);
+}
+
+.div2{
+
+    width: 122px;
+    border-bottom: 2px solid rgb(255, 255, 255);
+    border-top: 2px solid rgb(255, 255, 255);
+    border-right: 4px solid rgb(255, 255, 255);
+    border-left: 2px solid rgb(255, 255, 255);
+}
+
+.div3{
+
+    width: 122px;
+    border-bottom: 2px solid rgb(255, 255, 255);
+    border-top: 2px solid rgb(255, 255, 255);
+    border-right: 4px solid rgb(255, 255, 255);
+    border-left: 2px solid rgb(255, 255, 255);
+}
+
+
+/* petite div 2 */
+
+
+.div4{
+
+    width: 122px;
+    border-bottom: 2px solid rgb(255, 255, 255);
+    border-top: 4px solid rgb(255, 255, 255);
+    border-right: 2px solid rgb(255, 255, 255);
+    border-left: 2px solid rgb(255, 255, 255);
+}
+
+.div5{
+
+    width: 122px;
+    border-bottom: 2px solid rgb(255, 255, 255)black;
+    border-top: 2px solid rgb(255, 255, 255);
+    border-right: 2px solid rgb(255, 255, 255);
+    border-left: 2px solid rgb(255, 255, 255);
+}
+
+.div6{
+
+    width: 122px;
+    border-bottom: 4px solid rgb(255, 255, 255);
+    border-top: 2px solid rgb(255, 255, 255);
+    border-right: 2px solid rgb(255, 255, 255);
+    border-left: 2px solid rgb(255, 255, 255);
+}
+
+
+/* petite div 3 */
+
+
+.div7{
+
+    width: 122px;
+    border-bottom: 2px solid rgb(255, 255, 255);
+    border-top: 4px solid rgb(255, 255, 255);
+    border-right: 2px solid rgb(255, 255, 255);
+    border-left: 4px solid rgb(255, 255, 255);
+}
+
+.div8{
+
+    width: 122px;
+    border-bottom: 2px solid brgb(255, 255, 255)lack;
+    border-top: 2px solid rgb(255, 255, 255);
+    border-right: 2px solid rgb(255, 255, 255);
+    border-left: 4px solid rgb(255, 255, 255);
+}
+
+.div9{
+
+    width: 122px;
+    border-bottom: 4px solid rgb(255, 255, 255);
+    border-top: 2px solid rgb(255, 255, 255);
+    border-right: 2px solid rgb(255, 255, 255);
+    border-left: 4px solid rgb(255, 255, 255);
+}
+
+/* reste */
+
+h1{
+
+    color: white;
+    font-size: 70px;
+    font-family: cursive;
+    margin-left: 15%;
+}
+
+
+
+
+p{
+
+    max-height: 50px;
+    color: white;
+    font-size: 15px;
+    font-family: cursive;
+    
+}
+
+.dv1{
+    
+    position: relative;
+    float: right;
+    margin-right: 15%;
+    margin-top: -25%;
+    
+    padding: 5px;
+}
+
+
+h2{
+    color: white;
+    font-size: 30px;
+    font-family: cursive;
+    margin-left: 15%; 
+    
+}
+
+.re{
+    display: flex;
+    justify-content: center;
+    background-color: gray;
+    padding: 15px;
+    border-radius: 60px;
+    
+}
+
+/* button */
+
+button{
+    background-color: rgb(0, 0, 0);
+    border-radius: 20px;
+    font-size: 15px;
+    color: white;
+    border: 2px solid white;
+    margin: 10px;
+    
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+}
